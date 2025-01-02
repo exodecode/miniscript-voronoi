@@ -1,4 +1,4 @@
-import "listUtil"; import "coordinate"; import "color"; import "tex"
+import "coordinate"; import "color"; import "tex"
 generatePPM = @tex.generatePPM
 
 width = 128; height = 128; cellCount = 8; scale = 8
